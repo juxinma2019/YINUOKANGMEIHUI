@@ -1,2 +1,2 @@
-# YINUOKANGMEIHUI
-医诺康美荟
+#JXM
+用户使用手册
